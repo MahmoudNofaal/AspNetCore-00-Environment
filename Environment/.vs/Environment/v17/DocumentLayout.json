@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Documentation{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\launchSettings.json.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Documentation{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:launchSettings.json.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Documentation{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\Kestrel Server and Reverse Proxy Servers.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Documentation{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Kestrel Server and Reverse Proxy Servers.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Documentation{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\doc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Documentation{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:doc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E156627-E809-48D3-82AF-5CCE020397A8}|Environment\\Environment.csproj|d:\\work\\ai-native software development\\github repo\\dotnet(deep-dive)\\aspnetcore mastery\\00. environment\\environment\\environment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E156627-E809-48D3-82AF-5CCE020397A8}|Environment\\Environment.csproj|solutionrelative:environment\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E156627-E809-48D3-82AF-5CCE020397A8}|Environment\\Environment.csproj|d:\\work\\ai-native software development\\github repo\\dotnet(deep-dive)\\aspnetcore mastery\\00. environment\\environment\\environment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E156627-E809-48D3-82AF-5CCE020397A8}|Environment\\Environment.csproj|solutionrelative:environment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E156627-E809-48D3-82AF-5CCE020397A8}|Environment\\Environment.csproj|d:\\work\\ai-native software development\\github repo\\dotnet(deep-dive)\\aspnetcore mastery\\00. environment\\environment\\environment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E156627-E809-48D3-82AF-5CCE020397A8}|Environment\\Environment.csproj|solutionrelative:environment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json.md",
+              "DocumentMoniker": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\launchSettings.json.md",
+              "RelativeDocumentMoniker": "launchSettings.json.md",
+              "ToolTip": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\launchSettings.json.md",
+              "RelativeToolTip": "launchSettings.json.md",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-08T15:00:33.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kestrel Server and Reverse Proxy Servers.md",
+              "DocumentMoniker": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\Kestrel Server and Reverse Proxy Servers.md",
+              "RelativeDocumentMoniker": "Kestrel Server and Reverse Proxy Servers.md",
+              "ToolTip": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\Kestrel Server and Reverse Proxy Servers.md",
+              "RelativeToolTip": "Kestrel Server and Reverse Proxy Servers.md",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAF8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-08T14:48:45.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\Environment\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Environment\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\Environment\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Environment\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T13:51:15.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\Environment\\appsettings.json",
+              "RelativeDocumentMoniker": "Environment\\appsettings.json",
+              "ToolTip": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\Environment\\appsettings.json",
+              "RelativeToolTip": "Environment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T13:51:09.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\Environment\\Program.cs",
+              "RelativeDocumentMoniker": "Environment\\Program.cs",
+              "ToolTip": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\Environment\\Program.cs",
+              "RelativeToolTip": "Environment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:42:15.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "doc.md",
+              "DocumentMoniker": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\doc.md",
+              "RelativeDocumentMoniker": "doc.md",
+              "ToolTip": "D:\\WORK\\AI-Native Software Development\\GitHub Repo\\DotNET(Deep-Dive)\\AspNetCore Mastery\\00. Environment\\Environment\\doc.md",
+              "RelativeToolTip": "doc.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-11-08T13:40:51.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
